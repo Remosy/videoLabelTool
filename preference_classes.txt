@@ -1,0 +1,6 @@
+3
+loiter
+hangout
+curious
+zoneout
+eat
