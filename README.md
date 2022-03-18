@@ -14,9 +14,8 @@ curious
 zoneout
 eat
 ```
-The 1st line means: Amount of objects should label in the video, default is 1
-
-The dollowing lines can be edited and replaced by your own labels
+The 1st line means: Amount of objects should label in the video, default by 1
+The following lines can be edited and replaced by your own labels
 
 -----------------------------------------------------------------------
 Once done above preparation. Next...
